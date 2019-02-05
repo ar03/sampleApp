@@ -8,6 +8,8 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
+gem 'rails'
+gem 'bootstrap-sass'
 
 group :development, :test do
   gem 'sqlite3'

@@ -1,0 +1,38 @@
+body {
+    padding-top: 50px;
+}
+
+.em-text {
+    color: #1caa98 !important;
+}
+
+.jumbotron {
+    background-image: url(/Users/alex/Documents/eduonix/projectGamma/img/jumbotronBackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    height: 500px;
+    overflow: none;
+    border-radius: 0;
+}
+
+.jumbotron .app-btn {
+    width: 125px;
+    margin-right: 30px;
+}
+
+.jumbotron h1 {
+    margin-top: 60px;
+    font-size: 60px;
+}
+
+.jumbotron p {
+    margin-bottom: 40px;
+}
+
+.jumbotron .showcase-img {
+    height: 400px; width: 300px;
+    margin-top: 35px;
+    margin-left: 20px;
+
+}
